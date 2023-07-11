@@ -1,4 +1,4 @@
-# Climate Analysis and Climate App
+# Climate Analysis and Climate App 🌊
 
 This repository contains a project that focuses on climate analysis and the development of a climate application using Flask. The goal is to perform a basic climate analysis and explore climate data for the city of Honolulu, Hawaii. Dive into the documentation and code files to unlock the secrets of Honolulu's weather patterns. Aloha! 🌴🌞🌺
 
