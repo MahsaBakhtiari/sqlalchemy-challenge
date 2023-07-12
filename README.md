@@ -15,20 +15,20 @@ Using Python, SQLAlchemy, and visualizations, we'll explore the climate database
 - Precipitation: Plotting rainfall trends over the past 12 months.
 
 ![line](https://github.com/MahsaBakhtiari/sqlalchemy-challenge/blob/main/SurfsUp/plot_pic/rain_barplot.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most recent observed year's precipitation lacks discernible patterns.*
+*The most recent observed year's precipitation lacks discernible patterns.*
 
 - Super Station: Identifying the most active weather station and its temperature extremes.
 - Temperature Time Machine: Visualizing the temperature observations at the most active station over the last 12 months.
 
 ![hist](https://github.com/MahsaBakhtiari/sqlalchemy-challenge/blob/main/SurfsUp/plot_pic/temp_hist.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The temperature predominantly hovers around 75 degrees throughout the year.*
+*The temperature predominantly hovers around 75 degrees throughout the year.*
 
 ### Part 2: Flask Climate App
 
 We're building a fun climate app using Flask. It offers:
 
 - Homepage: Start your journey here.
-- Routes: Discover available routes in our app.
+  * Routes: Discover available routes in our app.
 - Precipitation Analysis: Retrieve the last 12 months of precipitation data.
 - Station List: Explore the list of weather stations.
 - Temperature Observations: Access the previous year's temperature records.
